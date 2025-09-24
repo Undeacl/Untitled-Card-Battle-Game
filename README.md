@@ -10,7 +10,8 @@ A strategic **card-based RPG game** inspired by [Balatro](https://store.steampow
 - [Features](#-features)  
 - [Gameplay](#-gameplay)  
 - [Controls](#-controls)  
-- [Mechanics](#-mechanics)  
+- [Mechanics](#-mechanics)
+- [What I Learned](#-what-i-learned)
 - [Credit](#-credit)  
 
 ---
@@ -56,17 +57,28 @@ Combos are automatically detected based on selected cards:
 - **Double Pair:** Two separate pairs  
 
 ### Card Management
-- **Replacement:** Cards are replaced after use, drawn from remaining deck.  
+- **Replacement:** Cards are replaced after use, drawn from the remaining deck.  
 - **Discard:** Players can discard cards strategically, but discards are limited.  
 
 ### Player & Enemy Turns
 - Player selects cards → calculates total damage → attacks.  
-- Enemy attacks when player’s turn ends.  
+- Enemy attacks when the player’s turn ends.  
 - Health bars and damage text provide visual feedback.  
 
 ### Rest Nodes
 - Campfire nodes allow players to **skip combat** and recover health.  
 
+---
+
+## 📝 What I Learned
+Through building this game, I furthered my experience in:  
+- **Pygame basics:** Handling sprites, animations, and events.  
+- **Object-Oriented Programming:** Structuring the game with classes like `Card`, `Character`, and `Map`.  
+- **Game Logic:** Implementing card combos, turn-based mechanics, and enemy AI.  
+- **UI Design:** Creating interactive buttons and visual feedback for damage and combos.  
+- **Project Organization:** Managing multiple Python modules, assets, and global variables efficiently.  
+- **Debugging & Optimization:** Fixing animation timing, preventing selection conflicts, and handling sprite updates efficiently.
+  
 ---
 
 ## 🎨 Credit
