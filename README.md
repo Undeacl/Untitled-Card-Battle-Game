@@ -15,7 +15,7 @@ A strategic **card-based RPG game** inspired by [Balatro](https://store.steampow
 
 ---
 
-## ✨ Features
+## Features
 - Strategic card combat with **combo detection**.  
 - Animated player and enemy characters (Idle, Attack, Hurt, Death).  
 - Dynamic map with different node types: **Encounters**, **Rest Points**, **Mini-bosses**, **Bosses**.  
