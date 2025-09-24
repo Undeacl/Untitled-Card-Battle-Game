@@ -7,7 +7,7 @@ from collections import Counter
 from Map import *
 
 pygame.init()
-
+pygame.display.set_caption("Untitled Game")
 #--------------------Game Functions--------------------#
 
 #Reset/clear lists, variables, and sprite groups
