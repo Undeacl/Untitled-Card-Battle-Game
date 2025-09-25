@@ -12,6 +12,7 @@ A strategic **card-based RPG game** inspired by [Balatro](https://store.steampow
 - [Controls](#-controls)  
 - [Mechanics](#-mechanics)
 - [What I Learned](#-what-i-learned)
+- [Documentation](https://github.com/Undeacl/Untitled-Card-Battle-Game/blob/main/Documentation.pdf)
 - [Credit](#-credit)  
 
 ---
