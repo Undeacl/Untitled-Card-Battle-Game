@@ -75,7 +75,7 @@ Combos are automatically detected based on selected cards:
 Through building this game, I furthered my experience in:  
 - **Pygame basics:** Handling sprites, animations, and events.  
 - **Object-Oriented Programming:** Structuring the game with classes like `Card`, `Character`, and `Map`.  
-- **Game Logic:** Implementing card combos, turn-based mechanics, and enemy AI.  
+- **Game Logic:** Implementing card combos, turn-based mechanics, and enemy "AI".  
 - **UI Design:** Creating interactive buttons and visual feedback for damage and combos.  
 - **Project Organization:** Managing multiple Python modules, assets, and global variables efficiently.  
 - **Debugging & Optimization:** Fixing animation timing, preventing selection conflicts, and handling sprite updates efficiently.
