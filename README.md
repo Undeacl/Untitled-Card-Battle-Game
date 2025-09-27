@@ -2,7 +2,7 @@
 
 ![](https://github.com/Undeacl/Untitled-Game/blob/main/Images/Untitled%20Game%20Preview.gif)  
 
-A strategic **card-based RPG game** inspired by [Balatro](https://store.steampowered.com/app/2379780/Balatro/) and [The Demon Hand](https://www.leagueoflegends.com/en-us/news/game-updates/the-demons-hand/) built with **Python** and **Pygame**. Players use a deck of cards to attack enemies, build combos, and progress through a dynamic map filled with encounters, rests, mini-bosses, and bosses.
+A strategic **card-based RPG game** inspired by [Balatro](https://store.steampowered.com/app/2379780/Balatro/) and [The Demon Hand](https://www.leagueoflegends.com/en-us/news/game-updates/the-demons-hand/) built with **Python** and **Pygame**. Players use a deck of cards to attack enemies, build combos, and progress through a dynamic map filled with encounters, rests, mini-bosses, and boss.
 
 ---
 
